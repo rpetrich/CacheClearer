@@ -1,0 +1,11 @@
+Package: com.rpetrich.cacheclearer
+Name: CacheClearer
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Clear app caches from the Usage section in Settings
+Maintainer: thebigboss.org <http://thebigboss.org>
+Author: Ryan Petrich <rpetrich+cacheclearer@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
+dev: rpetrich
